@@ -1,0 +1,63 @@
+.homeWraper{
+    background: url(../../../../assets/imgs/Homebackground.jpg) no-repeat scroll center    ;
+
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 0;
+
+}
+.container{
+    width: 100%;
+    padding-right: 0;
+    padding-left: 50%;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+.homeItem{
+    height: 50vh;
+    text-align: left;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+.homeTitle{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #fff;
+
+
+}
+.homeContent{
+    font-size: 13px;
+    letter-spacing: 5px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 500;
+}
+.homeUl{
+    display: inline-block;
+    float: none;
+    margin: 0 0 10px 0;
+    padding-left: 0;
+    list-style: none;
+}
+.homeUl li{
+    float: left;
+    margin-right: 20px;
+    display: list-item;
+}
+.homeUl li span{
+    color: white;
+    font-size: 15px;
+}

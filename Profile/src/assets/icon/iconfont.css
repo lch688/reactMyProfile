@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3683306 */
+  src: url('iconfont.woff2?t=1665005137318') format('woff2'),
+       url('iconfont.woff?t=1665005137318') format('woff'),
+       url('iconfont.ttf?t=1665005137318') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 25px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-github5:before {
+  content: "\e70d";
+}
+
+.icon-github:before {
+  content: "\ec01";
+}
+
+.icon-jiantoushang:before {
+  content: "\e62d";
+}
+
+.icon-twitter:before {
+  content: "\e646";
+}
+
+.icon-facebookfacebook51:before {
+  content: "\e604";
+}
+
+.icon-jiegousheji:before {
+  content: "\e63b";
+}
+
+.icon-wangzhan:before {
+  content: "\e628";
+}
+
+.icon-googleplus:before {
+  content: "\e87a";
+}
+
+.icon-instagram:before {
+  content: "\e87f";
+}
+
+.icon-Youtube:before {
+  content: "\e880";
+}
+
+.icon-zhihui:before {
+  content: "\e60a";
+}
+
+.icon-react:before {
+  content: "\e689";
+}
+
+.icon-vscode:before {
+  content: "\e6b8";
+}
+
+.icon-Pycharm:before {
+  content: "\e617";
+}
+
+.icon-Webstorm:before {
+  content: "\e618";
+}
+
+.icon-bxl-react:before {
+  content: "\e637";
+}
+
+.icon-diamond-01:before {
+  content: "\e71f";
+}
+
+.icon-daochu1024-07:before {
+  content: "\e619";
+}
+

@@ -1,0 +1,54 @@
+.wrapper{
+    padding-top: 3%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.title{
+    padding:15px 15px 0 15px;
+
+}
+.article{
+    padding:10px 30px 60px 15px;
+    line-height: 35px;
+    font-size: 16px;
+    text-align:justify;
+}
+.imgWraper{
+    padding: 35px 10px 25px 10px;
+}
+
+.bottom span{
+    color: #b8a07e;
+    font-size: 42px;
+    line-height: 46px;
+
+}
+.bottom{
+    padding-top: 85px;
+    padding-bottom: 120px;
+}
+.bottom p{
+    margin: 10px 0;
+    position: relative;
+    font-size: 13px;
+    color: #292929;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    text-transform: uppercase;
+    display: block;
+    line-height: 20px;
+
+
+}
+.bottom article{
+    margin: 0;
+    font-size: 13px;
+    line-height: 22px;
+    text-align: justify;
+    word-break:break-all;
+    color: #999999
+}
+.bottom section{
+    padding-left: 15px;
+    padding-right: 60px;
+}

@@ -1,0 +1,80 @@
+.imgContainer{
+    padding-top: 60px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+.colPadding{
+    padding: 10px 0 0 0 !important;
+}
+.imgContainer img{
+    width: 100%;
+    word-break: keep-all;
+}
+
+.contentContainer{
+    background: #f7f7f7;
+    width: 100%;
+    padding: 80px 30px 60px 30px;
+
+}
+.title{
+    padding-left: 20px;
+
+}
+.info{
+    width: 30%;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.info p{
+    margin-bottom: 0 !important;
+    line-height: 25px;
+    color: dimgray;
+
+}
+
+.contentContainer article{
+    width: 75%;
+    padding: 20px 60px 30px 20px;
+    text-align:justify;
+    line-height: 28px;
+}
+
+.contentContainer article section{
+
+    padding: 10px 0 25px 0;
+
+}
+.contentContainer article section ul{
+    padding-left: 0;
+    list-style: none;
+}
+.contentContainer article section li{
+    margin-left: 0;
+    padding-left: 0;
+    display: list-item;
+}
+.educationLeft {
+
+   display: inline-block;
+}
+.educationright{
+    float: right;
+
+
+
+
+}
+
+
+
+.education p{
+
+    text-transform: capitalize;
+    margin-bottom: 0 !important;
+}
+
+.profession p{
+    text-transform: capitalize;
+}

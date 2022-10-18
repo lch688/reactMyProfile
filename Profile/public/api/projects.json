@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "data": {
+    "headline":"Professional Summary",
+    "sub":"PROJECT",
+    "projects":[
+      {
+        "head": "travel",
+        "title": "REACT TRAVEL PROJECT",
+        "content": "This is a Front-end and Back-end separated, single page website developed with reactTs. Using the Ant-design for Page design .Using Redux,RTK for for state management, facilitating redux and achieving asynchronous ajax requests. CssModule is used to modularize css, establishing front-end routers by using react-router, and using axios to make requests.In addition,using redux-persist for persisting login information and i18n for language internationalization .Using express to develop the back-end data interface, and using jwt as the login authentication token.Using Docker for Container Deployment.Attention,the back-end is not connected to the database, so some functions cannot be fully implemented.",
+        "projectUrl": "http://travel.jhtc.work/",
+        "gitUrl": "https://github.com/lch688/reactTravelProject",
+        "img": "http://47.90.134.160:9570/img/travel.png"
+      },
+      {
+        "head": "article",
+        "title": "REACT ARTICLE PROJECT",
+        "content": "This is a Front-end and Back-end separated, single page website developed with reactJs.Css3 and Csstransition are used to achieve the animation effect. \nRedux is used for state management,Using thunk to complete asynchronous request. Styled-component is used to modularize css, establishing front-end routers by using react-router, and using axios to make requests.Using Docker for Container Deployment.",
+        "projectUrl": "http://article.jhtc.work/",
+        "gitUrl": "https://github.com/lch688/reactArticleProject",
+        "img": "http://47.90.134.160:9570/img/article.png"
+      },
+      {
+        "head": "others",
+        "title": "OTHERS PROJECT",
+        "content": " Some other small website projects.For example, the crawler project, in which Echarts is used to make charts.Obtianed the development experience of reactTs and reactJs,through these projects.",
+        "projectUrl": "https://github.com/lch688/othersProject",
+        "gitUrl": "https://github.com/lch688/othersProject",
+        "img": "http://47.90.134.160:9570/img/others.png"
+      }
+    ],
+    "name":["travel","article","others"]
+  }
+
+}

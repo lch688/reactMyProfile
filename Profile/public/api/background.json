@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "data": {
+    "headline":"Academic Credentials",
+    "sub":"ACADEMICS",
+    "first":{
+      "title": "Diploma Of Computer System Technician -",
+      "cotent": "Georgebrown College",
+      "img": "http://47.90.134.160:9570/img/GBC_Diploma.jpg"
+    },
+    "second":{
+    "title": "Official Student Transcript -",
+    "cotent": "Georgebrown College",
+      "img1": "http://47.90.134.160:9570/img/GBC_Transcript1.jpg",
+      "img2": "http://47.90.134.160:9570/img/GBC_Transcript2.jpg"
+  },
+    "third":{
+      "title": "Bachelor Of Art -",
+      "cotent": "Jilin Animation Institute",
+      "img": "http://47.90.134.160:9570/img/Bachelor_Art.jpg"
+    }
+  }
+
+}

@@ -1,0 +1,22 @@
+.wrapper{
+   padding: 50px 5% 80px 5%;
+}
+.container{
+    padding: 3% 60px 30px 3%
+}
+.ContentContainer{
+    padding-left: 20px;
+    padding-right: 10px ;
+    padding-bottom: 30px;
+}
+.ImageContainer{
+    width: 100%;
+    height: 50%;
+    padding-right: 20px ;
+    padding-bottom: 20px;
+}
+.ContentContainer h3{
+    color: #3367d6;
+    margin-bottom: 5px;
+    text-transform: capitalize;
+}

@@ -1,0 +1,141 @@
+{
+  "success": true,
+  "data": {
+    "typeWriter": [
+      "chenhaoliu",
+      "web designer",
+      "react developer"
+    ],
+    "topIntro": "Designer, Developer, Engineer",
+    "bio": {
+      "title": "BIO",
+      "content": "Graduated from Computer System Technician and adept fron-end developer focusing on react development.Two years of web development experience and one year of react development experience.Obtained practical experience through multiple personal projects.Familiar with technologies and libraries ,For example redux, middleware, redux-persistence, Css-modularization, react-bootstrap, Csstrassion, etc.With experiences in responsive, front end and back end separation, and single page web applications development.And having teamwork and internship experiences."
+    },
+    "iconInfo": [
+      {
+        "title": "FONT-END ENGINEER",
+        "content": "Master HTML、CSS、JS 、ES6、TS and jQuery etc,able to use Flex achieving relatively complex layouts.",
+        "icon": "icon-jiegousheji"
+      },
+      {
+        "title": "WEB DEVELOPER",
+        "content": "Have experience in developing responsive,front-end and back-end separated single page Web applications.",
+        "icon": "icon-wangzhan"
+      },
+      {
+        "title": "REACT DEVELOPER",
+        "content": "Familiar with redux,RTK,react-hooks,etc.Have experience in developing websites by using reactJs and reactTs.",
+        "icon": "icon-bxl-react"
+      },
+      {
+        "title": "REACT DEVELOPER",
+        "content": "Able to use react-bootstrap, ant-design to quickly design UI,and able to use Less,Sass,and bootstrap frame.",
+        "icon": "icon-zhihui"
+      }
+    ],
+    "resume": {
+      "title": "Resume",
+      "address": "57 Finch Avenue West,Unit 7 ,ON M2N0K9",
+      "contactInfo": "(437)684-7786，liuchenhao@gmail.com",
+      "object": {
+        "name": "Objective:",
+        "article": "Graduated from Computer System Technology and adept fron-end developer focusing on react development. I have independently completed two complex react web projects, which enables me to have experience in the development of react, TS, redux, reduxToolkit, docker and other technologies.I am eager to continue my career by joining your hardworking and interactive team, where I Will continue expanding my Fron-end knowledge into perfecting accessibility and responsive design."
+      },
+      "quality": {
+        "name": "Qualifications:",
+        "article": [
+          "•Two years of experience in HTML5,CSS3 development,able to write semantic HTML and modular CSS.",
+          "•Able to use Flex achieving relatively complex layouts,able to use CSS3 completing animation effects,learn about SASS,LESS preprocessor,and bootstrap frame.",
+          "•One year of experience in React development,master Redux,RTK,React Hooks,ReactDom,able to use them to develop modular single-page web applications,and built personal projects using reactJs and reactTs.",
+          "•Proficient in using Ajax and Json for data interaction,Frequently use Axios,Master thunk,saga middleware to realize asynchronous request,and be familiar with Resful design specification.",
+          "•Have experience in using CSS-Module and Styled-Component to modularize CSS,and be able to quickly build web applications by using react-bootstrap and ant-design",
+          "•Be familiar with TypeScript,master how to integrate its tools in the project, and be familiar with JavaScript, ES6, and jQuery library.",
+          "•Familiar with NodeJs，python, and have experience in using Express and MockJs to develop data interfaces.",
+          "•Have practical experience in developing complex front-end and back-end separated single page Web applications，and able to use ECharts to encapsulate charts.",
+          "•Proficient in using Git version control,fiddler to capture packets, master Linux Shell basic commands and understand Http protocol.",
+          "•Have practical experience in server management, be able to manage Unix,Linux, window server,and be familiar with docker container deployment and nginx basic configuration",
+          "•Have good code programming habits, strong learning ability and problem-solving ability,  being able to ensure that the project is completed within the period while taking into account the quality.",
+          "•Be able to manage Cisco devices and complete basic network configuration"
+        ]
+      },
+      "skills": {
+        "name": "Technical Skills:",
+        "article": [
+          "Languages:HTML,CSS,JavaScript,TypeScript,NodeJs,Python.",
+          "Frames and libraries:React,Redux,jquery,Bootstrap,Express.",
+          "Version Control:Github.",
+          "Server Manage:Unix,Linux,Windows Server,Nginx,Docker.",
+          "Tools:CRA,Postman,Fiddler,VMware,Wireshark,FileZilla,Npm Package Management,Photoshop,Webstorm,",
+          "Virtual Studio,PyCharm,Vim,Nano"
+
+        ]
+      },
+      "education": {
+        "name": "Education:",
+        "article": {
+          "school": [
+            {
+              "name": "George Brown College,Toronto,ON",
+              "time": "September 2020-May 2022",
+              "major": "Computer System Technician Program"
+            },
+            {
+              "name": "Jilin Animation Institute,Changchun,Jilin",
+              "time": " September 2015-June 2019",
+              "major": "Photography"
+            }
+          ],
+          "content": [
+            "Hands-on experiences In College:",
+            "(i) Individual or team cooperation websites and JS practical projects.\nURL: https://github.com/lch688/schoolPractice",
+            "(ii)Practical experience of operation management configuration server, For example configuring Nginx, Apache, network, DHCP, etc."
+          ]
+        }
+      },
+      "experience": {
+        "name": "Professional Experience:",
+        "article": {
+          "company": [
+            {
+              "name": "Jinghai Software Development Co.,Ltd(Intern)  ",
+              "time": "May 2021-December 2021",
+              "detail": "This is a software outsourcing company.I once worked as an intern web developer in the front-end team of this company.Full-time work during the May-September holiday period,then part-time work. During this period,I participated in a large project of the company,Tiancheng Mall,an online shopping platform.I attended several project meetings and designed the UI of the detail page.In addition,I also participated in some other ordinary projects,For example a back office management system (http://qiangdan.itwj.cn/backend/#/login [Test Version]) and other small websites."
+            }
+          ],
+          "content": [
+            "Personal Projects:",
+            "Personal WebSite Project:",
+            "Responsive,Front-end and Back-end separated, single page website developed with reactTs.",
+            "http://profile.jhtc.work/",
+            "https://github.com/lch688/reactMyProfile",
+            "Travel WebSite Project:",
+            "Front-end and Back-end separated, single page website developed with reactTs.",
+            "http://travel.jhtc.work/",
+            "https://github.com/lch688/reactTravelProject",
+            "Travel WebSite Project:",
+            "Front-end and Back-end separated, single page website developed with reactJs.",
+            "http://article.jhtc.work/",
+            "https://github.com/lch688/reactArticleProject"
+          ]
+        }
+      },
+      "volunteer": {
+        "name": "Volunteer Experience:",
+        "article": {
+          "company": [
+            {
+              "name": "Student Reporter",
+              "time": "2017-2019",
+              "detail":"During the period of studying photography in the university,I worked as a student reporter volunteer in the school planning department for two years,mainly responsible for filming various activities for the school.Once filmed ,the school anniversary,graduation ceremony,singing contest,welcome the new students activity,etc."
+            },
+            {
+              "name": "Camera assistant",
+              "time": "March 2021-August 2021",
+              "detail": "once worked as a photography assistant volunteer in a small TV Drama Crew.During that period,I mainly provide assistance and services for the camera team."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

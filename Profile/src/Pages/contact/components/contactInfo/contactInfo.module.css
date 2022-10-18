@@ -1,0 +1,42 @@
+.container{
+    width: 90%;
+    background: #f7f7f7;
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: -150px;
+    padding: 10px 10px  30px 10px;
+    height: 800px;
+
+
+
+}
+
+.content{
+    padding: 30px 3% 20px 3%;
+}
+.eachPart{
+    background: white;
+    height: 650px;
+    padding: 75px 20px 80px 45px;
+}
+.title{
+    padding-left: 15px;
+}
+.info section{
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+
+}
+.img{
+    display: inline-block;
+    width:60px;
+    height:60px;
+}
+.words {
+    font-size: 16px;
+}
+
+.inputWraper{
+    margin-bottom: 50px;
+}

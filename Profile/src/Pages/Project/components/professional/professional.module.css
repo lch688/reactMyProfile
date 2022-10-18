@@ -1,0 +1,87 @@
+.wrapper{
+   padding: 50px 5% 80px 5%;
+}
+.container{
+    padding: 3% 60px 30px 3%
+}
+.Nav span{
+    font-size: 20px;
+    color: #999999;
+    padding: 5px 15px 5px 15px;
+}
+.content {
+    padding: 60px 3% 80px 3%;
+}
+.imgContainer{
+    height: 530px;
+    padding: 20px 10px 60px 10px;
+}
+.content article{
+    width: 100%;
+    padding: 10px 10px 60px 20px;
+}
+.title{
+    text-transform: uppercase;
+    color: black;
+    cursor: pointer;
+
+
+}
+.title:hover{
+    color: #0054FF;
+
+
+}
+.title:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 100%;
+    width: 0;
+    height: 100%;
+
+    border-bottom: 2px solid   #0054FF;
+    transition: 0.3s all linear;
+}
+
+.title:hover:before{
+
+    right: 0;
+    width: 100%;
+
+}
+
+.git{
+    margin-top: 20px;
+}
+.git p{
+    line-height: 50px;
+    text-transform: capitalize;
+    vertical-align: center;
+    color: dimgray;
+}
+
+.buttonText{
+    display: inline-block;
+}
+.button{
+
+    float: right;
+
+}
+
+.dscribe{
+    padding-top: 20px;
+
+}
+.dscribe span{
+    color: #999999;
+
+}
+
+.dscribe p{
+    line-height: 30px;
+    text-align: justify;
+    font-size: 16px;
+
+}
